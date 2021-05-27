@@ -75,7 +75,6 @@ hr {
     margin-right: auto;
 }
 
-.smooth,
 header,
 .effect1:before,
 .effect1:after,
@@ -95,7 +94,6 @@ header,
     transition: .5s;
 }
 
-.boxShadow,
 .bg,
 .serv-card:hover,
 #about-tab,
